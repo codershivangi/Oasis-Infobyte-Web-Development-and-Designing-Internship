@@ -1,5 +1,3 @@
-
-
 function convertTemperature() {
     const temperatureInput = document.getElementById("temperatureInput").value;
     const unitSelect = document.getElementById("unitSelect").value;
